@@ -2,7 +2,7 @@ FROM debian:stable-slim
 
 LABEL MAINTAINER="jbl@t3n.de"
 
-ENV TIDEWAYS_VERSION 1.7.26
+ENV TIDEWAYS_VERSION=1.7.26
 
 RUN useradd --system tideways
 
