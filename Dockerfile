@@ -1,4 +1,4 @@
-FROM debian:stable-slim
+FROM debian:11.3-slim
 
 LABEL MAINTAINER="jbl@t3n.de"
 
